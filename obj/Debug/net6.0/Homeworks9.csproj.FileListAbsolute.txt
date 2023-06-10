@@ -1,0 +1,15 @@
+/Users/dmitrij/Desktop/SeminarS#/Homeworks/Homeworks9/obj/Debug/net6.0/Homeworks9.csproj.AssemblyReference.cache
+/Users/dmitrij/Desktop/SeminarS#/Homeworks/Homeworks9/obj/Debug/net6.0/Homeworks9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrij/Desktop/SeminarS#/Homeworks/Homeworks9/obj/Debug/net6.0/Homeworks9.AssemblyInfoInputs.cache
+/Users/dmitrij/Desktop/SeminarS#/Homeworks/Homeworks9/obj/Debug/net6.0/Homeworks9.AssemblyInfo.cs
+/Users/dmitrij/Desktop/SeminarS#/Homeworks/Homeworks9/obj/Debug/net6.0/Homeworks9.csproj.CoreCompileInputs.cache
+/Users/dmitrij/Desktop/SeminarS#/Homeworks/Homeworks9/bin/Debug/net6.0/Homeworks9
+/Users/dmitrij/Desktop/SeminarS#/Homeworks/Homeworks9/bin/Debug/net6.0/Homeworks9.deps.json
+/Users/dmitrij/Desktop/SeminarS#/Homeworks/Homeworks9/bin/Debug/net6.0/Homeworks9.runtimeconfig.json
+/Users/dmitrij/Desktop/SeminarS#/Homeworks/Homeworks9/bin/Debug/net6.0/Homeworks9.dll
+/Users/dmitrij/Desktop/SeminarS#/Homeworks/Homeworks9/bin/Debug/net6.0/Homeworks9.pdb
+/Users/dmitrij/Desktop/SeminarS#/Homeworks/Homeworks9/obj/Debug/net6.0/Homeworks9.dll
+/Users/dmitrij/Desktop/SeminarS#/Homeworks/Homeworks9/obj/Debug/net6.0/refint/Homeworks9.dll
+/Users/dmitrij/Desktop/SeminarS#/Homeworks/Homeworks9/obj/Debug/net6.0/Homeworks9.pdb
+/Users/dmitrij/Desktop/SeminarS#/Homeworks/Homeworks9/obj/Debug/net6.0/Homeworks9.genruntimeconfig.cache
+/Users/dmitrij/Desktop/SeminarS#/Homeworks/Homeworks9/obj/Debug/net6.0/ref/Homeworks9.dll
